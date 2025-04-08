@@ -1,0 +1,46 @@
+[
+    {
+        "transaction_id": "TRANS_67f4a11dc63ce",
+        "timestamp": "2025-04-08 04:07:57",
+        "items": [
+            {
+                "product_id": "PROD_67f4a0ae4bc44",
+                "name": "cake",
+                "quantity": 3,
+                "price": 250
+            },
+            {
+                "product_id": "PROD_67f4a0be0d566",
+                "name": "bun",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "total_amount": 800,
+        "payment_method": "Cash",
+        "cash_received": 1000,
+        "change_due": 200
+    },
+    {
+        "transaction_id": "TRANS_67f4a15cd4217",
+        "timestamp": "2025-04-08 04:09:00",
+        "items": [
+            {
+                "product_id": "PROD_67f4a0ae4bc44",
+                "name": "cake",
+                "quantity": 1,
+                "price": 250
+            },
+            {
+                "product_id": "PROD_67f4a0be0d566",
+                "name": "bun",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "total_amount": 300,
+        "payment_method": "Card",
+        "cash_received": null,
+        "change_due": null
+    }
+]

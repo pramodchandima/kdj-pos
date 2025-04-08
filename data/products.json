@@ -1,0 +1,14 @@
+[
+    {
+        "id": "PROD_67f4a0ae4bc44",
+        "name": "cake",
+        "price": 250,
+        "stock": 6
+    },
+    {
+        "id": "PROD_67f4a0be0d566",
+        "name": "bun",
+        "price": 50,
+        "stock": 8
+    }
+]
